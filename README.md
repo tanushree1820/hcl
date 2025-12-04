@@ -170,13 +170,6 @@ Dataset documentation will be saved under `/data/`.
 │     ├── raw/
 │     ├── processed/
 │
-│── docs/
-│     ├── architecture.png
-│     ├── sprint0_readme.pdf
-│
-│── notebooks/
-│     ├── exploration.ipynb
-│
 │── README.md
 │── requirements.txt
 ```
